@@ -11,7 +11,7 @@
 
 ### 세부목표
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f742d76c-0a75-45c9-aac2-623658d9dd45/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f742d76c-0a75-45c9-aac2-623658d9dd45/Untitled.png)
+![123](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f742d76c-0a75-45c9-aac2-623658d9dd45/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210618T053604Z&X-Amz-Expires=86400&X-Amz-Signature=8707a05364279ebc5a2e3c6024ea42d7386619dd700977b3874a0ffe51c08f72&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ## 주요 사항
 
